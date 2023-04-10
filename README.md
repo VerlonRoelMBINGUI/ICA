@@ -5,7 +5,6 @@ image and audio inputs.
 
 
 ### Group Members name
-	1. Armandine Sorel Kouyim Meli
-        2. Samuael Adnew
-	3. Verlon Roel Mbingui
-
+1. Armandine Sorel Kouyim Meli
+2. Samuael Adnew Birhane
+3. Verlon Roel Mbingui
